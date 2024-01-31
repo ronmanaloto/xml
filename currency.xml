@@ -54,4 +54,23 @@
             <symbol>₱</symbol>
         </currency>
     </countries>
+
+    <countries country="Thailan">
+        <name>Thailand</name>
+        <currency>
+            <code>THB</code>
+            <name>Thai Baht</name>
+            <symbol>฿</symbol>
+        </currency>
+    </countries>
+
+    <countries country="Vietnam">
+        <name>Vietnam</name>
+        <currency>
+            <code>VND</code>
+            <name>Vietnamese dong</name>
+            <symbol>₫</symbol>
+        </currency>
+    </countries>
+
 </currencies>
